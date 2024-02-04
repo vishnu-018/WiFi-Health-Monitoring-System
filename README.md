@@ -1,1 +1,2 @@
 # WiFi-Health-Monitoring-System
+The WiFi Health Monitoring System is a project aimed at providing real-time monitoring of vital health parameters including heart rate, blood oxygen saturation, and body temperature. The system utilizes readily available components and wireless connectivity to enable convenient and non-invasive health tracking. Data collected from the sensors are transmitted and stored using Firebase, offering a robust and scalable platform for data management and visualization.
